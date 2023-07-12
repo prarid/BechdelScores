@@ -23,6 +23,6 @@ In terms of box office returns, an analysis of the all time top 100 US movies by
 </p>
 
 <p align = center>
-  <img src="reg_summary.JPG" alt="drawing" width="30%"  height ="30%"/>
+  <img src="regsummary.JPG" alt="drawing" width="30%"  height ="30%"/>
 </p>
 
