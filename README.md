@@ -15,7 +15,7 @@ I'm happy to report that we see positive trends; female representation in movies
 In terms of box office returns, an analysis of the all time top 100 US movies by domestic box office returns revealed that 73% of these movies pass the Bechdel Test as shown in Figure 3. But the ability of a movie to pass the bechdel test does not have much predictive power about whether the movie will be a top grosser or not as shown in Table 1.
 
 
-![MoviesperDecade.png](MoviesperDecade.png)
+![Movies_per_Decade.png](Movies_per_Decade.png)
 ![Movies_per_Year.png](Movies_per_Year.png)
 
 <p align = center>
