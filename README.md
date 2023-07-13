@@ -16,10 +16,10 @@ In terms of box office returns, an analysis of the all time top 100 US movies by
 
 
 ![MoviesperDecade.png](MoviesperDecade.png)
-![MoviesperYear.png](MoviesperYear.png)
+![Movies_per_Year.png](Movies_per_Year.png)
 
 <p align = center>
-  <img src="BTFlagByBOReturns.png" alt="drawing" width="50%"  height ="50%"/>
+  <img src="BScorevsBOReturns" alt="drawing" width="50%"  height ="50%"/>
 </p>
 
 <p align = center>
