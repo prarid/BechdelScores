@@ -29,3 +29,10 @@ For the second project goal, in terms of box office returns, an analysis of the 
   <img src="BScoreBOReturns.png" alt="drawing" width="50%"  height ="50%"/>
 </p>
 
+#### References:
+1. https://glaad.org/whereweareontv21
+2. https://dykestowatchoutfor.com/the-rule/
+3. https://bechdeltest.com/
+4. https://developer.imdb.com/non-commercial-datasets/
+5. https://bechdeltest.com/api/v1/doc#getAllMovies
+6. https://www.the-numbers.com/box-office-records/domestic/all-movies/cumulative/all-time
